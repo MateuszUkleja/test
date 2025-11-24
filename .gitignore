@@ -1,0 +1,19 @@
+# Zależności (najważniejsze!)
+/node_modules
+
+# Pliki budowania (wynik kompilacji)
+/dist
+/out-tsc
+
+# Pliki konfiguracyjne środowiska i IDE
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Logi
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache Angulara
+/.angular/
